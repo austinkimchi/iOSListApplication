@@ -1,5 +1,6 @@
 # List Application
-[![Banner](/Resources/banner.png)](https://github.com/austinkimchi)
+
+[<img src="/Resources/banner.png" width="500" alt="Banner">](https://github.com/austinkimchi)
 
 <p align="center">
   <b>
